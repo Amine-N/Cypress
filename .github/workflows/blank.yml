@@ -13,4 +13,4 @@ jobs:
         uses: cypress-io/github-action@v6
         with:
           spec: cypress/e2e/TestRa.cy.js
-          browser: chrome
+          browser: edge
